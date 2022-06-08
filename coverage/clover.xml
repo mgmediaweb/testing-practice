@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654660182781" clover="3.2.0">
+  <project timestamp="1654660182781" name="All files">
+    <metrics statements="20" coveredstatements="19" conditionals="4" coveredconditionals="3" methods="8" coveredmethods="8" elements="32" coveredelements="30" complexity="0" loc="20" ncloc="20" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Microverse\Module 2\testing-practice\calculator.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="3" count="12" type="stmt"/>
+      <line num="4" count="12" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Microverse\Module 2\testing-practice\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="C:\Microverse\Module 2\testing-practice\reverseString.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="string-length.js" path="C:\Microverse\Module 2\testing-practice\string-length.js">
+      <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
